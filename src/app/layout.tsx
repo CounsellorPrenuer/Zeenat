@@ -16,7 +16,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="flex justify-between h-16">
               <div className="flex items-center">
                 <a href="#" className="flex items-center">
-                  <Image src="/logo.png" alt="Arwaada Bright Minds" width={150} height={50} className="object-contain max-h-12 w-auto" />
+                  <Image src="/Zeenat/logo.png" alt="Arwaada Bright Minds" width={150} height={50} className="object-contain max-h-12 w-auto" />
                 </a>
               </div>
               <div className="hidden md:flex items-center space-x-8">

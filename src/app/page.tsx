@@ -19,7 +19,7 @@ export default function Home() {
           <h2 className="text-4xl font-bold text-center text-rose-500 mb-12">About the Founder</h2>
           <div className="bg-rose-50 p-8 rounded-3xl shadow-sm border border-rose-100 flex flex-col md:flex-row gap-8 items-center md:items-start">
             <div className="w-48 h-48 md:w-64 md:h-64 shrink-0 rounded-2xl overflow-hidden bg-rose-200 relative border-4 border-white shadow-md">
-              <Image src="/zeenat.jpg" alt="Zeenat" fill className="object-cover" />
+              <Image src="/Zeenat/zeenat.jpg" alt="Zeenat" fill className="object-cover" />
             </div>
             <div>
               <h3 className="text-2xl font-semibold text-rose-700 mb-4">Zeenat</h3>
